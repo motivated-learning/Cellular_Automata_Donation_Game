@@ -1,4 +1,4 @@
-# Donation Game Simulation
+# Donation Game Simulation by 1D Binary Cellular Automata
 
 ## Reproduce
 ### Figure 3-11
