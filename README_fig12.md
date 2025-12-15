@@ -1,6 +1,6 @@
 # Figure 12
 
-The project contains Python scripts to generate Figure10 (Model 1: Global, Model 2: Local).
+The project contains Python scripts to generate Figure12 (Model 1: Global, Model 2: Local).
 
 * `donation_game_model.py`- Runs the simulation for the given parameters and saves the results to results.csv. 
 * `plot_figure12.py`- Generates a graph (payoff_vs_noise_plot.png) based on results.csv, showing the dependence of the average payoff on noise (e_a = e_p). 
